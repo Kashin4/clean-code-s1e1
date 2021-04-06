@@ -21,7 +21,7 @@ body {
 }
 
 @media (max-width:768px) {
-.img-div { text-align: center;}
+  .img-div { text-align: center;}
 }
 
 .page-element {
@@ -45,7 +45,8 @@ ul {
   padding: 0px;
 }
 
-li, h3 {
+li, 
+h3 {
   list-style: none;
 }
 
